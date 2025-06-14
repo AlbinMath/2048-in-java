@@ -25,10 +25,10 @@ This is a **Java Swing-based** implementation of the popular 2048 puzzle game. T
 
 ### Option 1: Download ZIP
 
-1. Click the **[Download ZIP](https://github.com/yourusername/2048-java-swing/archive/refs/heads/main.zip)** link or clone the repo:
+1. Click the **[Download ZIP](https://github.com/AlbinMath/2048-in-java/archive/refs/heads/main.zip)** link or clone the repo:
     ```bash
-    git clone https://github.com/yourusername/2048-java-swing.git
-    cd 2048-java-swing
+    [git clone https://github.com/AlbinMath/2048-in-java.git]
+    cd 2048-in-java
     ```
 
 2. Compile:
